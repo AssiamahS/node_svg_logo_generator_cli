@@ -59,6 +59,8 @@ To get started with this project, follow these steps:
 
 The recommended directory structure for this project is as follows:
 
+
+```plaintext
 svg-logo-maker/
 │
 ├── index.js
