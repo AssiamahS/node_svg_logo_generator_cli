@@ -24,7 +24,8 @@ As a fullstack developer, I want to generate a simple logo for my projects so th
 
 The following image shows a mock-up of the generated SVG given the following input entered by the user: "RUT" for the text, "white" for the text color, "circle" from the list of shapes, and "red" for the shape color.
 
-![SVG Logo Example](assets/images/screenshot.png)
+![SVG Logo Example](assets/images/Screenshot.png)
+
 
 ## Walkthrough Video
 
